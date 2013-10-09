@@ -2,5 +2,6 @@
 protected/runtime/*
 themes/classic/views/
 /index.php
+/.DS_Store
 .idea/
 protected/data/user.db
